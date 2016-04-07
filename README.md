@@ -4,3 +4,5 @@
 
 * Проект: файлы каталога [`LightSemantic`](LightSemantic)
 * Презентация: файлы каталога [`Presentation`](Presentation)
+
+**Примечание:** визитор работает по синтаксическому дереву PascalABC.NET, поэтому для функционирования требуется проект [PascalABC.NET](https://github.com/pascalabcnet/pascalabcnet)
